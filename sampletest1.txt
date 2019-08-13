@@ -1,1 +1,2 @@
-This is firsst code file 
+This is first code file
+I am a Devops engineer . I am developing a gaming project 
